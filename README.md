@@ -1,1 +1,0 @@
-Create music folder and add your-song.mp3 (Ngiti - instrumental if you have rights). Upload to GitHub Pages.
